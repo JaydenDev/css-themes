@@ -1,0 +1,23 @@
+/* 
+SimplicityCSS Theme
+By JaydenDev/JaydenDevelopment Free and Open Source Software, Website Templates, Utilities and more
+Release 21.11.1322 
+*/
+
+body {
+  background-color: #242424
+  margin: 20;
+}
+
+* {
+  font-family: monospace;
+  color: white;
+}
+
+p, a {
+  font-size: 10pt;
+}
+
+h1, h2, h3, h4 {
+  font-size: 15pt;
+}
